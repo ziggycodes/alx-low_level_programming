@@ -22,4 +22,3 @@ int main(void)
 		printf("and is less than 0 and not 0/n");
 	return (0);
 }	
-	
