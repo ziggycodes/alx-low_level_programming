@@ -12,6 +12,7 @@ int main(void)
 	for (ch = 'a'; ch <= '2'; ch++)
 		putchar(ch);
 	for (ch = 'A'; ch <= 'Z'; ch++)
-		putchar ('\n');
-		return (0);
+		putchar(ch);
+	putchar ('\n');
+	return (0);
 }
