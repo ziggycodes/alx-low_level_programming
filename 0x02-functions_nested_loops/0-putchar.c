@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * msin - entry point
+ * msin - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
