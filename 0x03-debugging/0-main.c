@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
- * main - function that prints if interger is positiveor nebative
+ * main - function that prints if interger is positive or negative
  * Return: 0
  */
 
 int main(void)
 {
-	int i;
+int i;
 
-	i = 0;
-	positive or negative(i);
+i = 0;
+positive or negative(i);
 
-	return (0);
+return (0);
 }
