@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * reverse_array - reverses the content of an array of intergers
- * @a: an array of intergers
- * @n: number of elements of the array
- * Return: returns void
- */
+ * reverse_array - reverses the content pf an array of integers
+ * @a: an array of integers
+ *@n: number of elements of the array
+*Return: returns coid
+*/
 
 void reverse_array(int *a, int n)
 
@@ -17,13 +17,18 @@ void reverse_array(int *a, int n)
 	end_c = a;
 
 
-	for (i = 0; i < n - i; i++)
+	for (i = 0; i < n - 1; i++)
 	{
 		end_c++;
 	}
 
+
+
+
 	for (i = 0; i < n / 2; i++)
 	{
+
+
 		c = *end_c;
 		*end_c = *start_c;
 		*start_c = c;
