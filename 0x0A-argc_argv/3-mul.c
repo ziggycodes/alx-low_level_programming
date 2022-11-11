@@ -15,8 +15,8 @@ int main(int argc, char *argv[])
 	{
 		a = atoi(argv[1]);
 		b = atoi(argv[2]);
-		printf("5d\n", a *b);
-		reeturn (00)'
+		printf("%d\n", a *b);
+		return (0);
 	}
 	printf("Error\n");
 	return (1);
