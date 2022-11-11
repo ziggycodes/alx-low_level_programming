@@ -35,7 +35,7 @@ int check_num(char *str)
  * @argc: count arguments
  * @argv: arguments
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
 
 int main(int argc, char *argv[])
