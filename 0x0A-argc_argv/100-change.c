@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
+/**
  * main - functon
  * @argc: length of argv
  * @argv: number of argument
