@@ -26,13 +26,13 @@ char *str_concat(char *s1, char *s2)
 
 	strout = malloc(sizeof(char) * (i + j + 1));
 
-	if (strut == NULL)
+	if (strout == NULL)
 	{
 		free (strout);
-		return (NUL);
+		return (NULL);
 	}
 
-	for (k = 0; k < i; k+=)
+	for (k = 0; k < i; k++)
 		strout[k] = s1[k];
 
 	limit = j;
