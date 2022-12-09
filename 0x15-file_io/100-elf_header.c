@@ -1,6 +1,6 @@
 
 Sign up
-Rashmany
+Ziggycodes
 /
 alx-low_level_programming
 Public
@@ -12,8 +12,8 @@ Projects
 Security
 Insights
 alx-low_level_programming/0x15-file_io/100-elf_header.c
-@Rashmany
-Rashmany A programm that displays the information contained in the ELF header …
+@ziggycodes
+ziggycode A programm that displays the information contained in the ELF header …
 …
  1 contributor
 299 lines (273 sloc)  6.12 KB
